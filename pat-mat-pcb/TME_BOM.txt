@@ -1,0 +1,5 @@
+L:	1x	1812	https://www.tme.eu/cz/details/b82432t1105k000/tlumivky-smd-1812/epcos/
+C:	3x	1206	https://www.tme.eu/cz/details/12065d106kat2a/kondenzatory-mlcc-smd/kyocera-avx/
+ZD:	1x	SOD123	https://www.tme.eu/cz/details/mmsz5242b-dio/zenerovy-diody-smd/diotec-semiconductor/mmsz5242b/
+R:	2x	0603	https://www.tme.eu/cz/details/smd0603-2k-1%25/rezistory-smd/royalohm/0603saf2001t5e/	
+R:	2x	0603	https://www.tme.eu/cz/details/smd0603-180r-1%25/rezistory-smd/royalohm/0603saf1800t5e/
