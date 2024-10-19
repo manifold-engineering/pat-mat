@@ -15,6 +15,7 @@ Hardware design is meant be as simple as possible.
 
 
 All schematics and PCB design files are available in the `/pat-mat-pcb` directory in KiCAD 8 format. There is output folder with gerber file outputs for manufacturing. They were successfully manufactured by JLC-PCB. Simple BOM file with links to TME is provided. Since Pat-Mat design is simple and only need standard components, it should be possible to source parts from your favourite supplier.
+
 ![3D view](./images/3D_view.png)
 
 **In order to fit to standard XLR connector, order you PCB 1.2 mm thick. 1.6 mm wont fit!**
